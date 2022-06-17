@@ -1,0 +1,15 @@
+.userList {
+    flex: 4;
+
+}
+
+
+.userListEdit{
+    border-radius: 8px;
+    padding: 5px 10px;
+    border:none;
+    background: darkcyan;
+    color:white;
+    cursor: pointer;
+    margin-right: 10px;
+}
